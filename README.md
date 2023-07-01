@@ -1,4 +1,4 @@
-# 42cursus-libft ([Subject](/.github/en.subject.pdf))
+# 42cursus-libft ([Subject](/en.subject.pdf))
 
 ## Description
 This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
@@ -63,9 +63,6 @@ This project is your very first project as a student at 42. You will need to rec
 | `ft_printf`       | `const char *format` | return the number of characters printed | produce output according to a format. only cspdiuxX% is available in this function. |
 | `ft_fndnrepl`       | `const char *find_str` `char *replace_word` `char *replace_value` | the new string, or NULL if the allocation fails. | find and replace a 'replace_word' by a 'replace_value' within 'find_str' |
 
-[![GitHub](https://img.shields.io/github/license/BrunoCostaGH/42cursus-libft?style=for-the-badge)](https://github.com/BrunoCostaGH/42cursus-libft)
-[![GitHub contributors](https://img.shields.io/github/contributors/BrunoCostaGH/42cursus-libft?style=for-the-badge)](https://github.com/BrunoCostaGH/42cursus-libft)
-[![GitHub issues](https://img.shields.io/github/issues/BrunoCostaGH/42cursus-libft?style=for-the-badge)](https://github.com/BrunoCostaGH/42cursus-libft/issues)
 [![GitHub Release Date](https://img.shields.io/github/release-date/BrunoCostaGH/42cursus-libft?style=for-the-badge)](https://github.com/BrunoCostaGH/42cursus-libft/releases/latest)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/BrunoCostaGH/42cursus-libft?style=for-the-badge)](https://github.com/BrunoCostaGH/42cursus-libft/releases/latest)
 
